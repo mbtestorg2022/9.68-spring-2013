@@ -24,7 +24,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011/)
+[_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011)
 
 ### Requirements Satisfied
 

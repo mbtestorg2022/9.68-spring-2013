@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: This table depicts human systems in terms of levels and aspects of organization.
+parent_uid: ed3f447f-93b2-f94f-d45f-a970e4baff4b
 resourcetype: Image
 title: image02.jpg
 uid: 65f636a3-810c-983d-6f02-680395c81a52
